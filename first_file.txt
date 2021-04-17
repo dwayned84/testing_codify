@@ -1,6 +1,2 @@
-adfadf
+This is my first file I added to my project
 
-This is my first file I added to my
-
-adfadfadfafa
-adfadsf
